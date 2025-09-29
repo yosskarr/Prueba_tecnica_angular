@@ -1,0 +1,12 @@
+# Angular
+/node_modules
+/dist
+/.angular/cache
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
