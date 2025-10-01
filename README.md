@@ -6,5 +6,5 @@ Aprendí a crear componentes, usar servicios, inyectar dependencias, manejar for
 1. Clona el repositorio: `git clone https://github.com/yosskarr/Prueba_tecnica_angular.git`
 2. Instala dependencias: `npm install`
 3. Ejecuta el servidor: `ng serve` o con `npm run start`
-4. Abre en el navegador `http://localhost:4200/` para ver la pagina o `[http://localhost:4200/](http://localhost:3000/locations)` para ver el json de la aplicación..  
+4. Abre en el navegador `http://localhost:4200/` para ver la pagina o `http://localhost:3000/locations` para ver el json de la aplicación..  
 El objetivo es comprender cómo Angular construye **Single Page Applications (SPA)** con buenas prácticas. 
